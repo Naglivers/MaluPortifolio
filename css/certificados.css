@@ -1,0 +1,215 @@
+#certificados {
+    background-color: #8a8989;
+}
+
+.projetos {
+    padding-top: 93px;
+}
+
+.projetos h2, .projetos a {
+    text-align: center;
+}
+
+.projetos h2 {
+    padding-bottom: 70px;
+}
+
+button {
+    padding: 10px 100px;
+    border-radius: 25px;
+    cursor: pointer;
+    color: white;
+    background-color: #395575;
+    border: none;
+    transition: ease-in-out 0.3s;
+}
+
+button:hover {
+    background-color: #2e4d72;
+}
+
+.github-link {
+    margin: 0 auto;
+    padding-top: 35px;
+    padding-bottom: 93px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+    gap: 35px;
+}
+
+.projetos a {
+    display: inline;
+}
+
+.pro {
+    background-color: #C4C4C4;
+    height: 195px;
+    width: 310px;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    overflow: hidden;
+    transition: ease-in-out 0.3s;
+}
+#cert1 {
+    background-image:url(https://cdn.discordapp.com/attachments/411609748170080256/1144006029080801361/Imagem_do_WhatsApp_de_2023-08-23_as_17.17.50.jpg);
+    background-repeat: no-repeat;
+    height: 195px;
+    width: 310px;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    overflow: hidden;
+    transition: ease-in-out 0.3s;
+}
+#cert2 {
+    background-image:url(https://cdn.discordapp.com/attachments/411609748170080256/1144006610428108830/Imagem_do_WhatsApp_de_2023-08-23_as_17.17.50.jpg);
+    background-repeat: no-repeat;
+    height: 195px;
+    width: 310px;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    overflow: hidden;
+    transition: ease-in-out 0.3s;
+}
+#cert3 {
+    background-image:url(https://cdn.discordapp.com/attachments/411609748170080256/1144007244745297960/Imagem_do_WhatsApp_de_2023-08-23_as_17.17.50.jpg);
+    background-repeat: no-repeat;
+    height: 195px;
+    width: 310px;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    overflow: hidden;
+    transition: ease-in-out 0.3s;
+}
+#cert4 {
+    background-image:url(https://cdn.discordapp.com/attachments/411609748170080256/1144009937769480293/Imagem_do_WhatsApp_de_2023-08-23_as_17.17.50.jpg);
+    background-repeat: no-repeat;
+    height: 195px;
+    width: 310px;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    overflow: hidden;
+    transition: ease-in-out 0.3s;
+}
+#cert5 {
+    background-image:url(https://cdn.discordapp.com/attachments/411609748170080256/1144010708493803701/Imagem_do_WhatsApp_de_2023-08-23_as_17.17.50.jpg);
+    background-repeat: no-repeat;
+    height: 195px;
+    width: 310px;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    overflow: hidden;
+    transition: ease-in-out 0.3s;
+}
+#cert6 {
+    background-image:url(https://cdn.discordapp.com/attachments/411609748170080256/1144011094067773540/Imagem_do_WhatsApp_de_2023-08-23_as_17.17.50.jpg);
+    background-repeat: no-repeat;
+    height: 195px;
+    width: 310px;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    overflow: hidden;
+    transition: ease-in-out 0.3s;
+}
+#cert7 {
+    background-image:url(https://cdn.discordapp.com/attachments/411609748170080256/1144011424566353980/Imagem_do_WhatsApp_de_2023-08-23_as_17.17.50.jpg);
+    background-repeat: no-repeat;
+    height: 195px;
+    width: 310px;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    overflow: hidden;
+    transition: ease-in-out 0.3s;
+}
+#cert8 {
+    background-image:url(https://cdn.discordapp.com/attachments/411609748170080256/1144011832768610504/Imagem_do_WhatsApp_de_2023-08-23_as_17.17.50.jpg);
+    background-repeat: no-repeat;
+    height: 195px;
+    width: 310px;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    overflow: hidden;
+    transition: ease-in-out 0.3s;
+}
+#cert9 {
+    background-image:url(https://cdn.discordapp.com/attachments/411609748170080256/1204862981478031400/Imagem_do_WhatsApp_de_2023-08-23_as_17.17.50.jpg?ex=65d64718&is=65c3d218&hm=7c5ad916dd750c3644e7af0980d4c6d857450469edef8f2819a718b9888fac9a&);
+    background-repeat: no-repeat;
+    height: 195px;
+    width: 310px;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    overflow: hidden;
+    transition: ease-in-out 0.3s;
+}
+
+
+
+
+.escondido {
+    opacity: 0;
+    display: none;
+    transition: 1000ms;
+}
+
+.projetos-itens {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 29.5px;
+    width: 100%;
+    justify-content: center;
+}
+
+@media (max-width:1200px) {
+  .projetos{
+      text-align: center;
+      display: flex;
+      flex-direction: column;
+  }
+
+  #projetos {
+      display: flex;
+      justify-content: center;
+  }
+
+  .projetos-itens {
+      flex-direction: column;
+  }
+
+}
+@media (max-width:950px) {
+    .pro {
+        max-width: 300px;
+    }
+
+}
